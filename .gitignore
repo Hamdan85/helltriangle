@@ -1,0 +1,4 @@
+/Gemfile.lock
+.idea/
+# rspec failure tracking
+.rspec_status
